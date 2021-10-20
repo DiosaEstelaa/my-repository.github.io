@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    background-color: grey;
+}
+
+#uno h1{
+    color: blueviolet;
+    font-family: 'Festive', cursive;
+    background-color: black;
+    text-shadow: 2px 2px 5px grey;
+
+}
+
+#uno p{
+    color: orange;
+    font-family: 'Scheherazade New', serif;
+    font-size: xx-large;
+}
+
+#dos h1{
+    color: brown;
+    font-family: 'Ephesis', cursive;
+    background-color: black;
+    text-shadow: 2px 2px 5px grey;
+
+}
+
+#dos p{
+    color: yellow;
+    font-family: 'Akronim', cursive;
+    font-size: xx-large;
+}
+
+#tres h1{
+    color: pink;
+    font-family: 'Bebas Neue', cursive;
+    background-color: black;
+    text-shadow: 2px 2px 5px grey;
+
+}
+
+#tres p{
+    color: teal;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: xx-large;
+}
+
+#cuatro h1{
+    color: darkgoldenrod;
+    font-family: 'Lobster', cursive;
+    background-color: black;
+    text-shadow: 2px 2px 5px grey;
+
+}
+
+#cuatro p{
+    color: red;
+    font-family: 'IM Fell English SC', serif;
+    font-size: xx-large;
+}
